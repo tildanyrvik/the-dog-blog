@@ -13,9 +13,14 @@ img {
 
 h1 {
     font-size: 70px;
-    font-weight: 50;
+    font-weight:300;
     font-style: italic;
     text-align: center;
     background-color:lightsalmon;
-    
+}
+
+.french-bulldog-link, .adpot-a-dog-link {
+    font-size: larger;
+    font-weight:bolder
+
 }
