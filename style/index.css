@@ -21,6 +21,8 @@ h1 {
 
 .french-bulldog-link, .adpot-a-dog-link {
     font-size: larger;
-    font-weight:bolder
+    font-weight:bolder;
+    text-align:center;
+   background-color:darksalmon
 
 }
