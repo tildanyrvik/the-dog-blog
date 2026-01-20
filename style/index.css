@@ -34,3 +34,11 @@ body {
     background-size:cover;
     background-attachment:fixed;
 }
+
+img {
+    border-width: 3px;
+    border-color: black;
+    border-style:dashed;
+    border-radius: 30px;
+
+}
